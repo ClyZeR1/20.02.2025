@@ -1,0 +1,7 @@
+C:\Users\Lucky-Buy.md\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\Lucky-Buy.md\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\Lucky-Buy.md\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\Lucky-Buy.md\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+C:\Users\Lucky-Buy.md\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\Lucky-Buy.md\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
